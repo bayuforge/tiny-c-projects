@@ -1,4 +1,4 @@
-# itxesp-clubs
+# Tiny C Projects (Previously named itxesp clubs)
 ### Preserving Projects:
 This repo is for personal repository and to preserve my coding school projects and also to track my progress on learning how to 
 code and put the code available for anyone around the world. Currently, This repo is only for preserving matter, Public contributions 
@@ -8,4 +8,4 @@ C++
 
 
 
-###### README.md, ver 1.0 (21/3/25)
+###### last edited 12 Jan 2026.
