@@ -4,7 +4,7 @@ This repo is for personal repository and to preserve my coding school projects a
 code and put the code available for anyone around the world. Currently, This repo is only for preserving matter, Public contributions 
 are closed. However, You are free to look at the codes and use them!
 ### Currently Used Lang:
-C++
+C++ C
 
 
 
